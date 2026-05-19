@@ -1,0 +1,9 @@
+[submodule "lib/Arduino-Makefile"]
+	path = lib/Arduino-Makefile
+	url = https://github.com/stygian-violet/Arduino-Makefile
+[submodule "lib/FAB_LED"]
+	path = lib/FAB_LED
+	url = https://github.com/sonyhome/FAB_LED
+[submodule "lib/ATTinyCore"]
+	path = lib/ATTinyCore
+	url = https://github.com/SpenceKonde/ATTinyCore
