@@ -22,6 +22,7 @@ LED strip animation on ATtiny85 and WS2812.
 The default configuration is for an ATtiny85 microcontroller with Micronucleus bootloader and a WS2812 strip with 32 LEDs.
 
 To use a different microcontroller or bootloader, edit [`Makefile`](Makefile).
+
 To use a different LED strip, edit [`config.h`](src/config.h).
 
 ## Building
