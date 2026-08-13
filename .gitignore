@@ -1,8 +1,10 @@
 *.o
 *.bak
 *.lck
+*.FCBak
 \#*\#
 *-backups
 fp-info-cache
 /build*
 /datasheet
+/casing
