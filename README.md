@@ -17,6 +17,12 @@ LED strip animation on ATtiny85 and WS2812.
 
 ![Schematic](img/schematic.png)
 
+## Casing
+
+![Casing](img/casing.png)
+
+The STL files and assembly instructions for the casing can be found at <https://www.printables.com/model/1802319-led-strip-controller-parametric>.
+
 ## Configuration
 
 The default configuration is for an ATtiny85 microcontroller with Micronucleus bootloader and a WS2812 strip with 32 LEDs.
